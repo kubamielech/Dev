@@ -1,0 +1,19 @@
+@keyframes nav-animation {
+    from {
+        transform: translateY(-150%);
+    }
+
+    to {
+        transform: translateY(0);
+    }
+}
+
+@keyframes scroll-btn-animation {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
